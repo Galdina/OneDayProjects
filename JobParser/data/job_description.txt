@@ -1,0 +1,57 @@
+Job Description
+
+
+Do you find yourself searching for a truly unique working environment? Do you have a go-getter attitude? Well, are you ready to take on a new challenge? We have an exciting opportunity for a Data Analyst (Underwriting & Lending) to join Dot818’s growing team!
+
+We’re looking for a special kind of candidate – someone who appreciates challenging projects, is comfortable working with a supportive team, and hungers for the freedom to think outside of the box. We also want you to care about our core values too. We have a deep commitment to success, we build strong relationships through tenacious effort, and we keep a firm focus on our client’s needs. If this sounds like your dream job, take the first step toward joining our team and apply now with your resume.
+
+The Data Analyst is expected to thoroughly understand the credit/lending risk domain, and frequently use industry specific risk analysis best practices when operating and building predictive models. The ideal candidate would be able to design new models, frameworks, dashboards, and other tools.
+
+Job Requirements
+
+
+You should be able to:
+
+
+Develop and implement underwriting and credit risk assessment data models
+Track various data metrics within the lending industry
+Close interaction with IT Team to design/improve data architecture
+Identify optimization opportunities using predictive modeling
+Develop and implement advanced custom models and algorithms
+Develop tools to monitor and analyze model performance and data accuracy
+Investigate new data sets and identify strategic opportunities for improving servicing for our customers
+Build out new data flows as our product changes, and produce high-value, timely analytics relevant to the lending and underwriting industry
+
+Qualifications
+
+Master’s degree in Data Science, Computer Science, Statistics, Mathematics, or any other quantitative discipline
+At least 3 years’ experience in the Fintech industry working with financial underwriting models, variables, and risk assessment models.
+Knowledge of R, Python, SQL
+Rigorous statistical intuition, deep understanding of core statistical principles, and extensive experience with core methods
+Knowledge of advanced statistical techniques and concepts
+Experience creating and using advanced machine learning algorithms
+
+
+Skills
+
+You are highly organized with the ability to multi-task and prioritize in a fast-paced culture
+You are a critical thinker and able to problem solve
+You have strong verbal communication skills
+Experience creating and using advanced machine learning algorithms
+
+
+What We Offer
+
+
+Competitive compensation package
+Casual Fridays and major holidays off
+Flexible work environment with a close-knit family feel
+Paid time off, company-sponsored 401k, and employee health and wellness benefits
+Company luncheons, outings, after-hour events, and team building festivities
+Workplace perks such as healthy snacks, fresh brewed organic coffee, and employee discounts
+Company sponsored gym membership
+Company provided parking
+Last, but not least, you will get to work with an amazing group of people!
+
+If you have the experience, drive to succeed and have a can-do attitude then we are looking for you. *Please only apply to the position using the following link: https://dot818.bamboohr.com/jobs/view.php?id=23&source=aWQ9MTk%3D*
+
