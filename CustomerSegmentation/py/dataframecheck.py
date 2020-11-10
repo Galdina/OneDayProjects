@@ -5,7 +5,7 @@ def sum_info(df):
     sum_['Name'] = sum_['index']
     sum_ = sum_[['Name', 'dtypes']]
     sum_['Missing'] = df.isnull().sum().values
-    sum_['Missing_%'] = (df.isnull().sum())/df.shape[0]*100
+    sum_['Missing_%'] = sum_['Missing']/df.shape[0]*100
     sum_['Uniques'] = df.nunique().values
     sum_['First Row'] = df.loc[0].values
     sum_['Last Row'] = df.loc[df.shape[0]-1].values
