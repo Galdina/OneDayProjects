@@ -20,3 +20,6 @@ Algorithms to be used for segmentation:
 * Fuzzy clustering
 * Density-based clustering
 * Model-based clustering
+
+## 2. COVID-19
+## 3. LA food challange 
