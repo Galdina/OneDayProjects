@@ -23,3 +23,4 @@ Algorithms to be used for segmentation:
 
 ## 2. COVID-19
 ## 3. LA food challange 
+## 4. Job Parser
